@@ -2,27 +2,15 @@ Sensor-Graph
 ============
 Sensor graph is a C++ Android sample that read current accelerometer values and draw them using OpenGL.
 
+accelerometerwithopengl-rohit0000 created by Classroom for GitHub
+
 It demonstrate usage of the following Native C++ API:
 - [Sensors](http://developer.android.com/ndk/reference/group___sensor.html)
 - [Assets](http://developer.android.com/ndk/reference/group___asset.html)
 
-Pre-requisites
---------------
-- Android Studio 1.3 with [NDK](https://developer.android.com/ndk/) bundle.
-
-Getting Started
----------------
-1. [Download Android Studio](http://developer.android.com/sdk/index.html)
-1. Launch Android Studio.
-1. Open `android-ndk/sensor-graph` sample.
-1. Open *File/Project Structure...*
-  1. Click *Download* or *Select NDK location*.
-1. Click *Tools/Android/Sync Project with Gradle Files*.
-1. Click *Run/Run 'app'*.
-
 Screenshots
 -----------
-![screenshot](screenshot.png)
+![screenshot](Test.png)
 
 Support
 -------
