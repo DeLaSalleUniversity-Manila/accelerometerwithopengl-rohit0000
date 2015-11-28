@@ -1,0 +1,4 @@
+See file:///C:/Users/Rohit/AndroidStudioProjects/android-ndk-master/sensor-graph/app/build/tmp/compileMips64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt for all output for compileMips64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp.
+compiling sensorgraph.cpp successful.
+
+Finished compileMips64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp, see full log file:///C:/Users/Rohit/AndroidStudioProjects/android-ndk-master/sensor-graph/app/build/tmp/compileMips64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt.

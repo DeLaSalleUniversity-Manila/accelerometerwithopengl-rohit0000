@@ -1,0 +1,4 @@
+See file:///C:/Users/Rohit/AndroidStudioProjects/android-ndk-master/sensor-graph/app/build/tmp/linkArmeabiDebugAllSensorgraphSharedLibrary/output.txt for all output for linkArmeabiDebugAllSensorgraphSharedLibrary.
+linking libsensorgraph.so successful.
+
+Finished linkArmeabiDebugAllSensorgraphSharedLibrary, see full log file:///C:/Users/Rohit/AndroidStudioProjects/android-ndk-master/sensor-graph/app/build/tmp/linkArmeabiDebugAllSensorgraphSharedLibrary/output.txt.

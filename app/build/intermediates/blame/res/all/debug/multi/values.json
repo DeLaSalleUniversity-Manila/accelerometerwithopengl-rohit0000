@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Rohit\\AndroidStudioProjects\\android-ndk-master\\sensor-graph\\app\\build\\intermediates\\res\\merged\\all\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\Rohit\\AndroidStudioProjects\\android-ndk-master\\sensor-graph\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 61,
+                        "endOffset": 916
+                    }
+                }
+            }
+        ]
+    }
+]

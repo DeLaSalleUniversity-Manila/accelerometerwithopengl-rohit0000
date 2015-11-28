@@ -1,0 +1,4 @@
+See file:///C:/Users/Rohit/AndroidStudioProjects/android-ndk-master/sensor-graph/app/build/tmp/linkMips64DebugAllSensorgraphSharedLibrary/output.txt for all output for linkMips64DebugAllSensorgraphSharedLibrary.
+linking libsensorgraph.so successful.
+
+Finished linkMips64DebugAllSensorgraphSharedLibrary, see full log file:///C:/Users/Rohit/AndroidStudioProjects/android-ndk-master/sensor-graph/app/build/tmp/linkMips64DebugAllSensorgraphSharedLibrary/output.txt.

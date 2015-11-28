@@ -1,0 +1,17 @@
+-shared
+-Wl,-soname,libsensorgraph.so
+-o
+C:\\Users\\Rohit\\AndroidStudioProjects\\android-ndk-master\\sensor-graph\\app\\build\\intermediates\\binaries\\debug\\all\\obj\\x86_64\\libsensorgraph.so
+C:\\Users\\Rohit\\AndroidStudioProjects\\android-ndk-master\\sensor-graph\\app\\build\\intermediates\\objectFiles\\x86_64DebugAllSensorgraphSharedLibrary\\sensorgraphMainCpp\\1f22bpvc9h7nuts0t692myclf\\sensorgraph.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=C:\\Users\\Rohit\\Downloads\\ndk/platforms/android-21/arch-x86_64
+-Wl,--build-id
+-LC:\\Users\\Rohit\\Downloads\\ndk\\sources\\cxx-stl\\llvm-libc++\\libs\\x86_64
+-lc++_static
+-no-canonical-prefixes
+-llog
+-lGLESv2
+-landroid

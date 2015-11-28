@@ -1,0 +1,4 @@
+See file:///C:/Users/Rohit/AndroidStudioProjects/android-ndk-master/sensor-graph/app/build/tmp/compileArmeabiDebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt for all output for compileArmeabiDebugAllSensorgraphSharedLibrarySensorgraphMainCpp.
+compiling sensorgraph.cpp successful.
+
+Finished compileArmeabiDebugAllSensorgraphSharedLibrarySensorgraphMainCpp, see full log file:///C:/Users/Rohit/AndroidStudioProjects/android-ndk-master/sensor-graph/app/build/tmp/compileArmeabiDebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt.
